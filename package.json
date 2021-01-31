@@ -1,0 +1,23 @@
+{
+    "name": "contrasto",
+    "displayName": "contrasto",
+    "description": "This dark VSCode theme aims at reducing eye strain in low-light conditions.",
+    "version": "0.0.1",
+    "publisher": "YonYonder",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "icon": "img/contrasto-icon.png",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Contrasto Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Contrasto Theme-color-theme.json"
+            }
+        ]
+    }
+}
